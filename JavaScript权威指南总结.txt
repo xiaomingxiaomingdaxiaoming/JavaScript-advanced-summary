@@ -1,0 +1,2 @@
+8.7.1 length属性
+1、函数的length属性代表形参的个数，arguments.length表示传入的实参的个数。
